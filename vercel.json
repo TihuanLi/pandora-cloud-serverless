@@ -1,7 +1,6 @@
 {
   "name": "pandora-cloud",
   "version": 2,
-  "framework": null,
   "builds": [
     {
       "src": "Pandora_Cloud-0.4.10-py3-none-any.whl",
